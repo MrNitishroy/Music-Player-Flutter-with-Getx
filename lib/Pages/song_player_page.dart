@@ -17,7 +17,7 @@ class SongPlayerPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        title: Text("S O Y E R"),
+        title: Text("Soundify"),
         centerTitle: true,
         actions: [
           IconButton(
