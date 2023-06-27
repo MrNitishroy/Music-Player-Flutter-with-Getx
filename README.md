@@ -1,4 +1,4 @@
-# music_player
+# Songify - Song Player app Using Flutter with Getx
 
 this is a song player app made by me ( Nitish Kumar), I have created this app using Flutter with Getx and for getting all downloaded audio files from the device I am using the OnAudioQuary package for playing songs I am using the Just_audio package.
 
