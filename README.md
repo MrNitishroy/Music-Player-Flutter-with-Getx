@@ -9,3 +9,8 @@ this is a song player app made by me ( Nitish Kumar), I have created this app us
 * Play in Background
 * Playback notification
 * Next / Previous song
+
+# ScreenShots 
+(https://github.com/MrNitishroy/Music-Player-Flutter-with-Getx/blob/main/screenshots/splace%20screen.png?raw=true)
+(https://github.com/MrNitishroy/Music-Player-Flutter-with-Getx/blob/main/screenshots/song%20page.png?raw=true)
+(https://github.com/MrNitishroy/Music-Player-Flutter-with-Getx/blob/main/screenshots/player%20page.png?raw=true)
