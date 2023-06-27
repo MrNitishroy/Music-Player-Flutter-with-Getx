@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import 'package:music_player/controller/player_controller.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
+import '../controller/player_controller.dart';
 import 'all_songs_page.dart';
 
 class SongPlayerPage extends StatelessWidget {

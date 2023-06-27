@@ -1,5 +1,6 @@
 import 'package:get/get.dart';
-import 'package:music_player/Pages/all_songs_page.dart';
+
+import '../Pages/all_songs_page.dart';
 
 class SplaceController extends GetxController {
   @override

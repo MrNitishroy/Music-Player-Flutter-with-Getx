@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import 'package:music_player/controller/splace_controller.dart';
+
+import '../controller/splace_controller.dart';
 
 class SpalcePage extends StatelessWidget {
   const SpalcePage({super.key});

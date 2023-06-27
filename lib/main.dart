@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_audio_background/just_audio_background.dart';
-import 'package:music_player/Pages/splace_page.dart';
-import 'package:music_player/config/my_theme.dart';
+
+import 'Pages/splace_page.dart';
+import 'config/my_theme.dart';
 
 Future<void> main() async {
   await JustAudioBackground.init(

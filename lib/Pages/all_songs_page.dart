@@ -1,9 +1,10 @@
+import 'package:Soundify/Pages/song_player_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import 'package:music_player/Pages/song_player_page.dart';
-import 'package:music_player/controller/player_controller.dart';
 import 'package:on_audio_query/on_audio_query.dart';
+
+import '../controller/player_controller.dart';
 
 class AllSongPage extends StatefulWidget {
   const AllSongPage({super.key});
