@@ -81,7 +81,7 @@ class PlayerController extends GetxController {
           Uri.parse(uri),
           tag: MediaItem(
             id: index.toString(),
-            album: songs[index].album,
+            album: "Soundify",
             title: songs[index].title,
           ),
         ),

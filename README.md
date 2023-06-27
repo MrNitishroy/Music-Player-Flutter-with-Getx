@@ -1,4 +1,4 @@
-# music_player
+# soundify
 
 A new Flutter project.
 
