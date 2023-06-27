@@ -72,15 +72,17 @@ class SongPlayerPage extends StatelessWidget {
                         seconds = seconds;
                       }),
                 ),
-                Obx(
-                  () => Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Text(playerController.position.value.toString()),
-                      Text(playerController.duration.value.toString()),
-                    ],
-                  ),
-                ),
+                // Obx(
+                //   () => Row(
+                //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                //     children: [
+                //       Text(playerController.position.value == null
+                //           ? "00:00"
+                //           : playerController.position.value.toString()),
+                //       Text(playerController.duration.value.toString()),
+                //     ],
+                //   ),
+                // ),
                 Obx(
                   () => Lottie.asset(
                     'assets/animation/wwave.json',
